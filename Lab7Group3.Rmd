@@ -1,0 +1,8 @@
+---
+title: 'Lab #07: BMI and Related(?) Factors'
+author: "Anna Chen, Sarah Muzzy, Rachel Kim, Hailey Rodriguez"
+date: "10/25/22"
+output: pdf_document
+editor_options: 
+  chunk_output_type: console
+---
